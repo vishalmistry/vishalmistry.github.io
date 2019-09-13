@@ -162,7 +162,7 @@ The climb was slow as it should be, in line with the motto of the mountain *"pol
 
 Luckily, I didn't suffer any symptoms of altitude sickness and was warm enough despite the bitterly cold, blustery wind which made it feel about -25c (-13f) if not colder. I got blown sideways a few times during particularly strong gusts, but otherwise kept my feet. We later found out that the wind was as strong as the local guides had ever seen it. 
 
-![Sunrise][sunrise]
+![Sunrise][stella_point_sunrise]
 
 Everyone was counting down to sunrise from around 5am so that it would warm up a bit. It arrived at about 6.30am in with this spectacular view at Stella Point, but it did not feel like it brought with it any warmth. Neither did it dissipate the wind which continued to blow wildly for about 30min to an hour afterwards.
 
@@ -219,7 +219,7 @@ Soon after that, after this amazing adventure, it was time to say farewell to Af
 [group_break]: /images/posts/2017-02-21-climbing-kilimanjaro/DSC01237.jpg
 [barafu_camp]: /images/posts/2017-02-21-climbing-kilimanjaro/DSC01258.jpg
 [view_at_basecamp]: /images/posts/2017-02-21-climbing-kilimanjaro/DSC01269.jpg
-[sunrise]: /images/posts/2017-02-21-climbing-kilimanjaro/DSC01273.jpg
+[stella_point_sunrise]: /images/posts/2017-02-21-climbing-kilimanjaro/DSC01273.jpg
 [summit]: /images/posts/2017-02-21-climbing-kilimanjaro/DSC01287.jpg
 [group_photo]: /images/posts/2017-02-21-climbing-kilimanjaro/DSC01310.jpg
 [bon_voyage]: /images/posts/2017-02-21-climbing-kilimanjaro/DSC01317.jpg
